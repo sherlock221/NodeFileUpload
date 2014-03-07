@@ -1,0 +1,7 @@
+//使用方法
+需要node环境
+表单上传依赖 npm_formidable
+安装完成node  launch.js 启动服务器
+端口自 server.js 里面配置 默认8888
+参考 : http://www.nodebeginner.org/index-zh-cn.html#how-our-server-handles-requests
+by sherlock
